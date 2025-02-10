@@ -49,8 +49,9 @@
 * 역할:
   * 팀장으로서 Python에서 K-Means 클러스터링을 통해 타자의 스윙 유형 분류
   * Python에서 Monte-Carlo 모델링을 담당
+  * R의 Shiny를 활용해 반응형 웹 애플리케이션 구축
 * 성과:
-* [Github 리포지토리](https://github.com/yeejuwon/mlb_batting_simulator) 
+* [Github 리포지토리](https://github.com/yeejuwon/mlb_batting_simulator), [Shinyapp](https://yeejuwon.shinyapps.io/mlb_batting_simulator/)
 
 ## #5 Logistic Regression Model을 활용한 선수 계약 규모 예측 프로젝트
 * 기간: 2024년 9월 ~ 2024년 11월
